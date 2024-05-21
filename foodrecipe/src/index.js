@@ -8,7 +8,7 @@ import PaymentComponent from './PaymentComponent';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
  <>
- <App></App>
+<App></App>
  
  </>
 );

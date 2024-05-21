@@ -19,7 +19,7 @@ const MyComponent = ({ data }) => {
     <div className="row">
       {data.map((dataItem, index) => (
         <div className="col-md-4" key={index}>
-          <div className="card" style={{ width: '18rem' }}>
+          <div className="card" style={{ width: '14rem' }}>
             <img className="card-img-top" src={dataItem.recipe.image} alt="Card cap" />
             <div className="card-body">
               <center>

@@ -1,0 +1,49 @@
+form{
+
+    margin-top:50px;
+ 
+    
+}
+form .narrow-input {
+    width: 190px; /* Set your desired width */
+  }
+ 
+  .app{
+    display: flex;
+
+    margin: 30px;
+    gap:20px;
+    border: 2px solid greenyellow;
+    flex-wrap: wrap;
+    background-color: rgb(49, 6, 6);
+    
+  }
+  a{
+    text-decoration: none;
+  }
+  .productcard{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+   padding:20px;
+   margin-top: 30px;
+    width: 260px;
+    height: 500px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px gainsboro;
+   
+    border: 2px green solid;
+  }
+  .productcard button{
+    margin-left: 60px;
+  }
+  .productcard img{
+    background-color: black;
+  }
+  .productcard h2{
+    color: azure;
+  }
+.mainrouting{
+  display: flex;
+  gap:30px;
+}
