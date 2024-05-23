@@ -3,7 +3,7 @@ import photo from "./photofood.webp";
 function Home() {
   return (
    <>
-   <img src={photo}></img>
+  <h3>home</h3>
    </>
   )
 }
